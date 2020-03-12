@@ -1,7 +1,16 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="it">
 <head>
-	<title>Covid19</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107708165-11"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-107708165-11', { 'anonymize_ip': true });
+    </script>
+	<title>Riflessioni | Covid19</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Siamo 3 informatici con la passione per i numeri, 3 cittadini attenti al tema #coronavirus  ">
 	<meta name="keywords" content="cloud, hosting, creative, html">
@@ -36,7 +45,7 @@
 	<!-- Header section -->
 	<header class="header-section">
 		<div class="container">
-			<a href="index.html" class="site-logo">
+			<a href="/" class="site-logo">
 				<img src="img/logo.png" alt="logo"  style="height:40px;">
 			</a>
 			<!-- Switch button -->
@@ -45,12 +54,12 @@
 			</div>
 			<div class="header-right">
 				<ul class="main-menu">
-					<li><a href="index.html">Home</a></li>
-														<li class="active" ><a href="manifesto.html">Riflessioni</a></li>
+					<li><a href="/">Home</a></li>
+														
+					<li ><a href="blog.php">Analisi Matematiche e Scientifiche</a></li>
+<li class="active" ><a href="riflessioni.php">Riflessioni</a></li>
 
-					<li ><a href="blog.html">Link utili</a></li>
-
-					<li><a href="contact.html">Contatti</a></li>
+					<li><a href="contact.php">Contatti</a></li>
 				</ul>
 				<div class="header-btns">
 					<!--<a href="#" class="site-btn sb-c1">Support <span>24/7</span></a>
@@ -76,8 +85,8 @@
 	<section class="blog-section spad">
 		<div class="container">
 			<div class="section-title">
-				<p>The only ones</p>
-				<h2>Manifesto</h2>
+				<p>Il coronavirus e la creazione di un nuovo "vecchio" mondo</p>
+				<h2>Riflessioni</h2>
 			</div>
 			<div class="row">
 				<div class="col-lg-12">
@@ -108,112 +117,7 @@
 	</section>
 	<!-- Services section end -->
 
-
-
-		<!-- Footer top section -->
-	<section class="footer-top-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-12">
-					<div class="footer-widget about-widget">
-						<img src="img/logo.png" alt="">
-						<p>Siamo 3 informatici con la passione per i numeri, 3 cittadini attenti al tema #coronavirus.  </p>
-						
-					</div>
-				</div>
-		
-				<div class="col-lg-3 col-sm-4">
-					<div class="footer-widget">
-						<h5 class="fw-title"  style="font-size: 1.25rem !important;
-font-weight: 500;
-letter-spacing: .0125em !important;">Andrea Tironi</h5>
-						<a href="#"  style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;  andrea.tironi@gmail.com</a>
-						
-						<hr style="border-color: hsla(0,0%,100%,.12);" data-v-4ec8cda4="" role="separator" aria-orientation="horizontal" >
-						<span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-mobile"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;348 3313798</span>
-						
-					</div>
-				</div>
-				<div class="col-lg-3 col-sm-4">
-					<div class="footer-widget">
-						<h5 class="fw-title"  style="font-size: 1.25rem !important;
-font-weight: 500;
-letter-spacing: .0125em !important;">Matteo Bianchessi</h5>
-						<a href="#"  style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"> <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp; mbianchessi@gmail.com</a>
-						
-						<hr style="border-color: hsla(0,0%,100%,.12);" data-v-4ec8cda4="" role="separator" aria-orientation="horizontal" >
-						<span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-mobile"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;349 8411331</span>
-						
-					</div>
-				</div>
-				<div class="col-lg-3 col-sm-4">
-					<div class="footer-widget">
-						<h5 class="fw-title"  style="font-size: 1.25rem !important;
-font-weight: 500;
-letter-spacing: .0125em !important;">Gianluca Mongia</h5>
-						<a href="#"  style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;  galli.gianluca@gmail.com</a>
-						
-						<hr style="border-color: hsla(0,0%,100%,.12);" data-v-4ec8cda4="" role="separator" aria-orientation="horizontal" >
-						<span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
-font-weight: 400;
-line-height: 1.375rem;
-letter-spacing: .0071428571em;"></span>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Footer top section end -->
-
-
-	
-	<!-- Footer section -->
-	<footer class="footer-section">
-		<div class="container">
-			<div class="footer-nav">
-				<ul>
-					<li><a href="home.html">Home</a></li>
-															<li><a href="manifesto.html">Riflessioni</a></li>
-
-					<li ><a href="blog.html">Link utili</a></li>
-
-					<li><a href="contact.html">Contatti</a></li>
-				</ul>
-			</div>
-			<div class="copyright">
-				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
-			</div>
-		</div>
-	</footer>
-	<!-- Footer section end -->
-
-
-	<!--====== Javascripts & Jquery ======-->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/circle-progress.min.js"></script>
-	<script src="js/main.js"></script>
+    <?php include("footer.php");?>
 
 	</body>
 </html>
