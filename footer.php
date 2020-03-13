@@ -25,7 +25,7 @@ letter-spacing: .0071428571em;"><i class="fa fa-envelope" aria-hidden="true"></i
                     <span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
 font-weight: 400;
 line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-mobile"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;348 3313798</span>
+letter-spacing: .0071428571em;"><i class="fa fa-globe"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrea-tironi-/" target="_blank">LinkedIn</a></span>
 
                 </div>
             </div>
@@ -43,7 +43,7 @@ letter-spacing: .0071428571em;"> <i class="fa fa-envelope" aria-hidden="true"></
                     <span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
 font-weight: 400;
 line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-mobile"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;349 8411331</span>
+letter-spacing: .0071428571em;"><i class="fa fa-globe"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mbianchessi/" target="_blank">LinkedIn</a></span>
 
                 </div>
             </div>
@@ -61,7 +61,7 @@ letter-spacing: .0071428571em;"><i class="fa fa-envelope" aria-hidden="true"></i
                     <span style="color: hsla(0,0%,100%,.7);font-size: .875rem;
 font-weight: 400;
 line-height: 1.375rem;
-letter-spacing: .0071428571em;"><i class="fa fa-globe"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.mongia.it" target="_blank">www.mongia.it</a></span>
+letter-spacing: .0071428571em;"><i class="fa fa-globe"  style="font-size:20px;" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.mongia.it" target="_blank">MonGia.it</a></span>
 
                 </div>
             </div>
@@ -74,7 +74,7 @@ letter-spacing: .0071428571em;"><i class="fa fa-globe"  style="font-size:20px;" 
                         <br>
                         Questo sito è contro le fake news. Gli autori riportano in buona fede i dati reperibili, ma declinano ogni resposabilità su eventuali errori. Si impegnano inoltre a correggere tempestivamente errori ed invitano gli utenti a segnalarne la presenza.
                         <br>
-                        Lo scopo di questo sito è esclusivamente informativo e non a scopo di lucro.
+                        Lo scopo di questo sito è esclusivamente informativo e non è a scopo di lucro.
                     </h5>
                 </div>
             </div>

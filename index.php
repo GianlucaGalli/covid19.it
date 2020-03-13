@@ -340,7 +340,7 @@
 						<img src="img/milestone-icons/2.png" alt="">
 					</div>
 					<div class="milestone-text text-white">
-						<h2>65</h2>
+						<h2>64</h2>
 						<p>Età mediana contagiati</p>
 					</div>
 				</div>

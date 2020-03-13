@@ -101,7 +101,7 @@
 						<a style="margin-left:15px;" href="mailto:nome.cognome@gmail.com">nome.cognome@gmail.com</a>
 						<br/>
 						
-						<span  style="font-size:15px;margin-left:60px;">34ottospazio33137noveotto</span>
+						<span  style="font-size:15px;margin-left:60px;"><a href="https://www.linkedin.com/in/andrea-tironi-/" target="_blank">LinkedIn</a></span>
 
 					</div>
 					
@@ -116,7 +116,7 @@
 						<a style="margin-left:15px;" href="mailto:mbianchessi@gmail.com">mbianchessi@gmail.com</a>
 						<br/>
 						
-						<span  style="font-size:15px;margin-left:60px;">349spaziootto4unounotre31</span>
+						<span  style="font-size:15px;margin-left:60px;"><a href="https://www.linkedin.com/in/mbianchessi/" target="_blank">LinkedIn</a></span>
 
 					</div>
 					
@@ -131,7 +131,7 @@
 						<a style="margin-left:15px;" href="mailto:info@mongia.it">info@mongia.it</a>
 						<br/>
 						
-						<span  style="font-size:15px;margin-left:60px;"><a href="http://www.mongia.it" target="_blank">www.mongia.it</a></span>
+						<span  style="font-size:15px;margin-left:60px;"><a href="http://www.mongia.it" target="_blank">MonGia.it</a></span>
 
 					</div>
 					
